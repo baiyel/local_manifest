@@ -5,8 +5,8 @@
    <remote name="lab" fetch="https://gitlab.com"/>
    <remote name="hub" fetch="https://github.com"/>
    
-   <remove-project name="crdroidandroid/android_packages_apps_Launcher3"/>
-   <project path="packages/apps/Launcher3" name="crdroidandroid/android_packages_apps_Launcher3" remote="hub" revision="13.0" clone-depth="1"/>
+   <!--<remove-project name="crdroidandroid/android_packages_apps_Launcher3"/>
+   <project path="packages/apps/Launcher3" name="crdroidandroid/android_packages_apps_Launcher3" remote="hub" revision="13.0" clone-depth="1"/>-->
  
    <!-- Trees -->
    <project path="device/xiaomi/rosemary" name="mortalxzyz/device_xiaomi_rosemary" remote="hub" revision="cr13" clone-depth="1"/>
