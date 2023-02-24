@@ -2,7 +2,7 @@
 
 <manifest>
    <!-- Remote -->
-   <remote name="lab" fetch="https://gitlab.com/>
+   <remote name="lab" fetch="https://gitlab.com"/>
    <remote name="hub" fetch="https://github.com"/>
  
    <!-- Trees -->
