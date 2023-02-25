@@ -37,7 +37,7 @@
    <!-- Hardware -->
    <project path="hardware/mediatek" name="mortalxzyz/android_hardware_mediatek" remote="hub" revision="lineage-20"/>
    
-   <project path="hardware/xiaomi" name="mortalxzyz/android_hardware_xiaomi" remote="hub" revision="lineage-20"/>
+   <project path="hardware/xiaomi" name="mortalxzyz/android_hardware_xiaomi" remote="hub" revision="thirteen"/>
    
    <!-- Clang -->
    <!--<project path="prebuilts/clang/host/linux-x86/clang-proton" name="mortalxzyz/proton-clang" remote="hub" revision="master" clone-depth="1"/>-->
