@@ -22,7 +22,7 @@
    <project path="vendor/xiaomi/rosemary" name="mortalxzyz/vendor_xiaomi_rosemary" remote="hub" revision="lineage-20" clone-depth="1"/>
    
    <!-- MtkFMRadio -->
-   <project path="packages/apps/MtkFMRadio" name="mortalxzyz/android_packages_apps_MtkFMRadio" remote="hub" revision="13.0" clone-depth="1"/>
+   <project path="packages/apps/MtkFMRadio" name="crdroidandroid/android_packages_apps_MtkFMRadio" remote="hub" revision="13.0" clone-depth="1"/>
    
    <!-- Extras -->
    <project path="vendor/mediatek/opensource" name="mortalxzyz/vendor_mediatek-opensource" remote="hub" revision="thirteen" clone-depth="1"/>
