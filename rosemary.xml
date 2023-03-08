@@ -14,6 +14,9 @@
    
    <project path="frameworks/base" name="crdroidandroid/android_frameworks_base" remote="hub" revision="13.0" clone-depth="1"/>
    
+   <!-- Ngapps -->
+    <project path="vendor/ngapps" name="CodeChas3r/vendor_ngapps" remote="lab" revision="13" clone-depth="1"/>
+   
    <!-- Trees -->
    <project path="device/xiaomi/rosemary" name="CodeChas3r1/device_xiaomi_rosemary" remote="hub" revision="crdroid-13" clone-depth="1"/>
    
