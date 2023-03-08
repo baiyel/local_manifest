@@ -2,7 +2,7 @@
 
 <manifest>
    <!-- Remote -->
-   <remote name="gapps" fetch="https://gitlab.com/CodeChas3r"/>
+   <remote name="ngapps" fetch="https://gitlab.com/CodeChas3r"/>
    <remote name="lab" fetch="https://gitlab.com"/>
    <remote name="hub" fetch="https://github.com"/>
    
@@ -16,7 +16,7 @@
    <project path="frameworks/base" name="crdroidandroid/android_frameworks_base" remote="hub" revision="13.0" clone-depth="1"/>
    
    <!-- Ngapps -->
-    <project path="vendor/ngapps" name="vendor_ngapps" remote="gapps" revision="13" clone-depth="1"/>
+    <project path="vendor/ngapps" name="vendor_ngapps" remote="ngapps" revision="13" clone-depth="1"/>
    
    <!-- Trees -->
    <project path="device/xiaomi/rosemary" name="CodeChas3r1/device_xiaomi_rosemary" remote="hub" revision="crdroid-13" clone-depth="1"/>
