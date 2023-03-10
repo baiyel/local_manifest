@@ -4,9 +4,6 @@
    <!-- Remote -->
    <remote name="lab" fetch="https://gitlab.com"/>
    <remote name="hub" fetch="https://github.com"/>
- 
-   <!-- Ngapps -->
-    <project path="vendor/ngapps" name="CodeChas3r/vendor_ngapps" remote="lab" revision="13" clone-depth="1"/>
    
    <!-- Trees -->
    <project path="device/xiaomi/rosemary" name="CodeChas3r1/device_xiaomi_rosemary" remote="hub" revision="cr-rebase" clone-depth="1"/>
