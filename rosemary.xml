@@ -4,6 +4,10 @@
    <!-- Remote -->
    <remote name="lab" fetch="https://gitlab.com"/>
    <remote name="hub" fetch="https://github.com"/>
+
+   <!-- LineageOS -->
+   <remove-project name="LineageOS/android_packages_modules_Bluetooth"/>
+   <project path="packages/modules/Bluetooth" name="LineageOS/android_packages_modules_Bluetooth" remote="hub" revision="lineage-20" clone-depth="1"/>
  
    <!-- Ngapps -->
     <project path="vendor/ngapps" name="CodeChas3r/android_vendor_ngapps" remote="lab" revision="13" clone-depth="1"/>
