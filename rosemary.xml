@@ -8,7 +8,7 @@
    <!-- Trees -->
    <project path="device/xiaomi/rosemary" name="CodeChas3r1/device_xiaomi_rosemary" remote="hub" revision="cr-rebase"/>
    
-   <project path="kernel/xiaomi/mt6785" name="CodeChas3r1/kernel_xiaomi_mt6785" remote="hub" revision="lineage-20" clone-depth="1"/>
+   <project path="kernel/xiaomi/mt6785" name="CodeChas3r1/kernel_xiaomi_mt6785" remote="hub" revision="lineage-20"/>
    
    <project path="vendor/xiaomi/rosemary" name="CodeChas3r1/vendor_xiaomi_rosemary" remote="hub" revision="crdroid-13"/>
    
@@ -28,7 +28,7 @@
    <!-- Hardware -->
    <project path="hardware/mediatek" name="CodeChas3r1/android_hardware_mediatek" remote="hub" revision="lineage-20" clone-depth="1"/>
    
-   <project path="hardware/xiaomi" name="CodeChas3r1/android_hardware_xiaomi" remote="hub" revision="lineage-20" clone-depth="1"/>
+   <project path="hardware/xiaomi" name="CodeChas3r1/android_hardware_xiaomi" remote="hub" revision="lineage-20"/>
    
    <!-- Clang -->
    <project path="prebuilts/clang/host/linux-x86/clang-azure" name="Panchajanya1999/azure-clang" remote="lab" revision="main" clone-depth="1"/>
