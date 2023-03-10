@@ -23,15 +23,15 @@
    
    <project path="vendor/mediatek/interfaces" name="CodeChas3r1/vendor_mediatek_interfaces" remote="hub" revision="lineage-20" clone-depth="1"/>
    
-   <project path="device/mediatek/common" name="CodeChas3r1/device_mediatek_common" remote="hub" revision="thirteen" clone-depth="1"/>
+   <project path="device/mediatek/common" name="CodeChas3r1/device_mediatek_common" remote="hub" revision="thirteen" clone-depth="1" clone-depth="1"/>
    
    <!-- SePolicy -->
-   <project path="device/mediatek/sepolicy_vndr" name="CodeChas3r1/device_mediatek_sepolicy_vndr" remote="hub" revision="lineage-20"/>
+   <project path="device/mediatek/sepolicy_vndr" name="CodeChas3r1/device_mediatek_sepolicy_vndr" remote="hub" revision="lineage-20" clone-depth="1"/>
    
    <!-- Hardware -->
-   <project path="hardware/mediatek" name="CodeChas3r1/android_hardware_mediatek" remote="hub" revision="lineage-20"/>
+   <project path="hardware/mediatek" name="CodeChas3r1/android_hardware_mediatek" remote="hub" revision="lineage-20" clone-depth="1"/>
    
-   <project path="hardware/xiaomi" name="CodeChas3r1/android_hardware_xiaomi" remote="hub" revision="lineage-20"/>
+   <project path="hardware/xiaomi" name="CodeChas3r1/android_hardware_xiaomi" remote="hub" revision="lineage-20" clone-depth="1"/>
    
    <!-- Clang -->
    <project path="prebuilts/clang/host/linux-x86/clang-azure" name="Panchajanya1999/azure-clang" remote="lab" revision="main" clone-depth="1"/>
