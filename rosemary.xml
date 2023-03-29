@@ -15,14 +15,14 @@
    <project path="frameworks/base" name="crdroidandroid/android_frameworks_base" remote="hub" revision="13.0" clone-depth="1"/>
 
    <!-- Trees -->
-   <project path="device/xiaomi/rosemary" name="CodeChas3r1/device_xiaomi_rosemary" remote="hub" revision="cr-rebase"/>
+   <project path="device/xiaomi/rosemary" name="CodeChas3r1/device_xiaomi_rosemary" remote="hub" revision="cr13"/>
    
    <project path="kernel/xiaomi/mt6785" name="CodeChas3r1/kernel_xiaomi_mt6785" remote="hub" revision="lineage-20"/>
    
    <project path="vendor/xiaomi/rosemary" name="CodeChas3r1/vendor_xiaomi_rosemary" remote="hub" revision="crdroid-13"/>
    
    <!-- MtkFMRadio -->
-   <project path="packages/apps/MtkFMRadio" name="CodeChas3r1/android_packages_apps_MtkFMRadio" remote="hub" revision="13.0" clone-depth="1"/>
+   <project path="packages/apps/MtkFMRadio" name="crdroidandroid/android_packages_apps_MtkFMRadio" remote="hub" revision="13.0" clone-depth="1"/>
    
    <!-- Extras -->
    <project path="vendor/mediatek/opensource" name="CodeChas3r1/vendor_mediatek-opensource" remote="hub" revision="thirteen" clone-depth="1"/>
