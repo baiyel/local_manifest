@@ -5,7 +5,7 @@
    <remote name="lab" fetch="https://gitlab.com"/>
    <remote name="hub" fetch="https://github.com"/>
    
-   <remove-project name="android_frameworks_opt_net_ims" />
+   <remove-project name="crdroidandroid/android_frameworks_opt_net_ims" />
 
    <!-- Trees -->
    <project path="device/redmi/rosemary" name="CodeChas3r1/android_device_redmi_rosemary-firmware" remote="hub" revision="eleven" clone-depth="1"/>
