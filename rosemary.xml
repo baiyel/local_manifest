@@ -8,7 +8,7 @@
    <remove-project name="crdroidandroid/android_frameworks_opt_net_ims" />
 
    <!-- Trees -->
-   <project path="device/redmi/rosemary" name="CodeChas3r1/android_device_redmi_rosemary-firmware" remote="hub" revision="eleven" clone-depth="1"/>
+   <project path="device/redmi/rosemary-firmware" name="CodeChas3r1/android_device_redmi_rosemary-firmware" remote="hub" revision="eleven" clone-depth="1"/>
    
    <project path="device/redmi/rosemary" name="CodeChas3r1/android_device_redmi_rosemary" remote="hub" revision="12.1" clone-depth="1"/>
    
