@@ -8,31 +8,29 @@
    <remove-project name="LineageOS/android_external_chromium-webview_prebuilt_arm64" />
    <project path="external/chromium-webview/prebuilt/arm64" name="CodeChas3r1/android_external_chromium-webview_prebuilt_arm64" remote="hub" revision="main" clone-depth="1"/>
    
-   <remove-project name="crdroidandroid/android_frameworks_opt_net_ims" />
+   <remove-project name="baiyel/android_frameworks_opt_net_ims" />
 
    <!-- Trees -->
-   <project path="device/redmi/rosemary-firmware" name="CodeChas3r1/android_device_redmi_rosemary-firmware" remote="hub" revision="eleven" clone-depth="1"/>
+   <project path="device/redmi/rosemary" name="baiyel/android_device_redmi_rosemary" remote="hub" revision="twelve" clone-depth="1"/>
    
-   <project path="device/redmi/rosemary" name="CodeChas3r1/android_device_redmi_rosemary" remote="hub" revision="12.1" clone-depth="1"/>
+   <project path="kernel/redmi/rosemary" name="baiyel/android_kernel_redmi_rosemary" remote="hub" revision="lineage-19.1" clone-depth="1"/>
    
-   <project path="kernel/redmi/rosemary" name="CodeChas3r1/android_kernel_redmi_rosemary" remote="hub" revision="lineage-19.1" clone-depth="1"/>
-   
-   <project path="vendor/redmi/rosemary" name="CodeChas3r1/android_vendor_redmi_rosemary" remote="hub" revision="lineage-19.1" clone-depth="1"/>
+   <project path="vendor/redmi/rosemary" name="baiyel/android_vendor_redmi_rosemary" remote="hub" revision="Android-S" clone-depth="1"/>
    
    <!-- Extras -->
-   <project path="vendor/mediatek/opensource" name="CodeChas3r1/vendor_mediatek-opensource" remote="hub" revision="twelve" clone-depth="1"/>
+   <project path="vendor/mediatek/opensource" name="baiyel/vendor_mediatek-opensource" remote="hub" revision="twelve" clone-depth="1"/>
    
-   <project path="vendor/mediatek/interfaces" name="CodeChas3r1/vendor_mediatek_interfaces" remote="hub" revision="twelve" clone-depth="1"/>
+   <project path="vendor/mediatek/interfaces" name="baiyel/vendor_mediatek_interfaces" remote="hub" revision="twelve" clone-depth="1"/>
    
-   <project path="device/mediatek/common" name="CodeChas3r1/device_mediatek_common" remote="hub" revision="twelve" clone-depth="1"/>
+   <project path="device/mediatek/common" name="baiyel/device_mediatek_common" remote="hub" revision="twelve" clone-depth="1"/>
    
-   <project path="frameworks/opt/net/ims" name="CodeChas3r1/crdroid_frameworks_opt_net_ims" remote="hub" revision="12.1" clone-depth="1" />
+   <project path="frameworks/opt/net/ims" name="baiyel/frameworks_opt_net_ims" remote="hub" revision="twelve" clone-depth="1" />
    
    <!-- SePolicy -->
-   <project path="device/mediatek/sepolicy_vndr" name="CodeChas3r1/android_device_mediatek_sepolicy_vndr" remote="hub" revision="twelve" clone-depth="1"/>
+   <project path="device/mediatek/sepolicy_vndr" name="baiyel/android_device_mediatek_sepolicy_vndr" remote="hub" revision="twelve" clone-depth="1"/>
    
    <!-- Hardware -->
-   <project path="hardware/xiaomi" name="CodeChas3r1/android_hardware_xiaomi" remote="hub" revision="lineage-19.1"/>
+   <project path="hardware/xiaomi" name="baiyel/android_hardware_xiaomi" remote="hub" revision="twelvedotone"/>
    
    <!-- Clang -->
    <project path="prebuilts/clang/host/linux-x86/clang-proton" name="CodeChas3r1/proton-clang" remote="hub" revision="master" clone-depth="1"/>
