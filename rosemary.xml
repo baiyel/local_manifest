@@ -29,7 +29,7 @@
    <project path="frameworks/opt/net/ims" name="CodeChas3r1/crdroid_frameworks_opt_net_ims" remote="hub" revision="12.1" clone-depth="1" />
    
    <!-- SePolicy -->
-   <project path="device/mediatek/sepolicy_vndr" name="CodeChas3r1/android_device_mediatek_sepolicy_vndr" remote="hub" revision="lineage-19.1" clone-depth="1"/>
+   <project path="device/mediatek/sepolicy_vndr" name="CodeChas3r1/android_device_mediatek_sepolicy_vndr" remote="hub" revision="twelve" clone-depth="1"/>
    
    <!-- Hardware -->
    <project path="hardware/xiaomi" name="CodeChas3r1/android_hardware_xiaomi" remote="hub" revision="lineage-19.1"/>
